@@ -84,6 +84,7 @@ for step in range(7000):
 
 plt.ioff()
 
+
 # plot a generated painting for upper class
 plt.figure(2)
 z = np.random.randn(1, N_IDEAS)
